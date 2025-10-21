@@ -1,3 +1,3 @@
-# This is a website
+# Oh my, is this a demo home page?
 
 Yes, that's right.
